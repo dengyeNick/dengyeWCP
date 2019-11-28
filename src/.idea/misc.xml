@@ -44,20 +44,20 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
+        <option value="$PROJECT_DIR$/wcp-api/pom.xml" />
+        <option value="$PROJECT_DIR$/wcp-know/pom.xml" />
+        <option value="$PROJECT_DIR$/farm-core/pom.xml" />
+        <option value="$PROJECT_DIR$/wda-api/pom.xml" />
+        <option value="$PROJECT_DIR$/wcp-doc/pom.xml" />
+        <option value="$PROJECT_DIR$/wcp-quartz/pom.xml" />
+        <option value="$PROJECT_DIR$/wcp-tag/pom.xml" />
+        <option value="$PROJECT_DIR$/wcp-authority/pom.xml" />
         <option value="$PROJECT_DIR$/wcp-doc-so/pom.xml" />
         <option value="$PROJECT_DIR$/wcp-lucene/pom.xml" />
-        <option value="$PROJECT_DIR$/wcp-doc/pom.xml" />
-        <option value="$PROJECT_DIR$/wcp-parameter/pom.xml" />
-        <option value="$PROJECT_DIR$/wcp-know/pom.xml" />
-        <option value="$PROJECT_DIR$/wcp-web/pom.xml" />
-        <option value="$PROJECT_DIR$/wcp-authority/pom.xml" />
-        <option value="$PROJECT_DIR$/farm-core/pom.xml" />
         <option value="$PROJECT_DIR$/wcp-group/pom.xml" />
-        <option value="$PROJECT_DIR$/wcp-quartz/pom.xml" />
-        <option value="$PROJECT_DIR$/wcp-api/pom.xml" />
+        <option value="$PROJECT_DIR$/wcp-parameter/pom.xml" />
+        <option value="$PROJECT_DIR$/wcp-web/pom.xml" />
         <option value="$PROJECT_DIR$/wcp-webfile/pom.xml" />
-        <option value="$PROJECT_DIR$/wda-api/pom.xml" />
-        <option value="$PROJECT_DIR$/wcp-tag/pom.xml" />
       </list>
     </option>
   </component>
