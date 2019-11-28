@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/src/farm-core/farm-core.iml" filepath="$PROJECT_DIR$/src/farm-core/farm-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/wcp-api/wcp-api.iml" filepath="$PROJECT_DIR$/src/wcp-api/wcp-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/wcp-authority/wcp-authority.iml" filepath="$PROJECT_DIR$/src/wcp-authority/wcp-authority.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/wcp-doc/wcp-doc.iml" filepath="$PROJECT_DIR$/src/wcp-doc/wcp-doc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/wcp-doc-so/wcp-doc-so.iml" filepath="$PROJECT_DIR$/src/wcp-doc-so/wcp-doc-so.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/wcp-group/wcp-group.iml" filepath="$PROJECT_DIR$/src/wcp-group/wcp-group.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/wcp-know/wcp-know.iml" filepath="$PROJECT_DIR$/src/wcp-know/wcp-know.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/wcp-lucene/wcp-lucene.iml" filepath="$PROJECT_DIR$/src/wcp-lucene/wcp-lucene.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/wcp-parameter/wcp-parameter.iml" filepath="$PROJECT_DIR$/src/wcp-parameter/wcp-parameter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/wcp-quartz/wcp-quartz.iml" filepath="$PROJECT_DIR$/src/wcp-quartz/wcp-quartz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/wcp-tag/wcp-tag.iml" filepath="$PROJECT_DIR$/src/wcp-tag/wcp-tag.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/wcp-web/wcp-web.iml" filepath="$PROJECT_DIR$/src/wcp-web/wcp-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/wcp-webfile/wcp-webfile.iml" filepath="$PROJECT_DIR$/src/wcp-webfile/wcp-webfile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/wda-api/wda-api.iml" filepath="$PROJECT_DIR$/src/wda-api/wda-api.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/farm-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wcp-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wcp-authority" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wcp-doc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wcp-doc-so" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wcp-group" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wcp-know" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wcp-lucene" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wcp-parameter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wcp-quartz" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wcp-tag" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wcp-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wcp-webfile" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wda-api" charset="UTF-8" />
+  </component>
+</project>

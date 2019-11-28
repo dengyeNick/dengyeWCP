@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="wcp-web:war">
+    <output-path>$PROJECT_DIR$/wcp-web/target</output-path>
+    <root id="archive" name="wcp.war">
+      <element id="artifact" artifact-name="wcp-web:war exploded" />
+    </root>
+  </artifact>
+</component>

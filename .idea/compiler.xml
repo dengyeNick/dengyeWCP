@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="farm-core" />
+        <module name="wcp-api" />
+        <module name="wcp-authority" />
+        <module name="wcp-doc" />
+        <module name="wcp-doc-so" />
+        <module name="wcp-group" />
+        <module name="wcp-know" />
+        <module name="wcp-lucene" />
+        <module name="wcp-parameter" />
+        <module name="wcp-quartz" />
+        <module name="wcp-tag" />
+        <module name="wcp-web" />
+        <module name="wcp-webfile" />
+        <module name="wda-api" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="farm-core" target="1.7" />
+      <module name="wcp-api" target="1.7" />
+      <module name="wcp-authority" target="1.7" />
+      <module name="wcp-doc" target="1.7" />
+      <module name="wcp-doc-so" target="1.7" />
+      <module name="wcp-group" target="1.7" />
+      <module name="wcp-know" target="1.7" />
+      <module name="wcp-lucene" target="1.7" />
+      <module name="wcp-parameter" target="1.7" />
+      <module name="wcp-quartz" target="1.7" />
+      <module name="wcp-tag" target="1.7" />
+      <module name="wcp-web" target="1.7" />
+      <module name="wcp-webfile" target="1.7" />
+      <module name="wda-api" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
